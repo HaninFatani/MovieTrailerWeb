@@ -4,7 +4,6 @@ import webbrowser
 class Video():
 
     """A parent class, so the developer can inherit from"""
-    
     def __init__(self, title, duration):
         self.title = title
         self.duration = duration
@@ -21,6 +20,6 @@ class Movie(Video):
         self.poster_image_url = img
         self.trailer_youtube_url = trailer
 
-        #to run the trailer videos in the website
+        # to run the trailer videos in the website
     def show_trailer(self):
         webbrowser.open(self.trailer_youtube_url)
