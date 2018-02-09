@@ -12,9 +12,12 @@ Before starting to use my project, Here what you need to do first:
 
 # Project Content
 python files:
-1. entertainment_center
-2. fresh_tomatoes
-3. media
+1. entertainment_center: 
+_This file where movie intances are defined and here you run the project_
+2. fresh_tomatoes: 
+_This file where the website structure is taking place_
+3. media: 
+_This file where movie model is located and inherited_
 
 # Lunch Website
 To lunch the website, Follow these steps:
