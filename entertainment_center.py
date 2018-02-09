@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-"""this file, movies instances are defined to be stored in Movie class """
+"""this file, movies instances are defined to be stored in Movie class and run it in the web page"""
 # instance 1
 naruto = media.Movie("The Last: Naruto the Movie",
                      "1:30 hour",
